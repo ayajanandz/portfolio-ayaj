@@ -36,14 +36,15 @@ header{
     content: "";
     width: 1px;
     height: 2rem;
-    background: var(--color-primary)
+    background: var(--color-primary);
+    
 
 }
 
 /*========ME========*/
 
 .me{
-    background: linear-gradient(rgba(167,201,254,255), transparent);
+    background: linear-gradient(rgba(167,201,254,255) , transparent);
     width: 22rem;
     height: 30rem;
     position: absolute;

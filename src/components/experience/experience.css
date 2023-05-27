@@ -10,7 +10,8 @@
 }
 
 .experience__container > div {
-    background: var(--color-bg-variant);
+    /* background: var(--color-bg-variant); */
+    background: rgb(69, 39, 139);
     padding: 2.4rem;
     border-radius: 2rem;
     border: 1px solid transparent;
@@ -43,7 +44,7 @@
 /* ==========MEDIA QUERY (Medium devices)=======*/
 
 @media screen and (max-width: 1024px) {
-   .experience__contaner {
+   .experience__container {
     grid-template-columns: 1fr;
 
    }  
